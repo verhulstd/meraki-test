@@ -4,3 +4,6 @@ body {
 h1 {
   text-transform: uppercase;
 }
+h2 {
+  color: red;
+}
