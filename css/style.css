@@ -1,9 +1,9 @@
 body {
   background-color: lightgrey;
 }
-h1 {
-  text-transform: uppercase;
-}
 h2 {
   color: red;
+}
+p {
+  color: green;
 }
